@@ -5,16 +5,16 @@ Hi, I'm Gustavo!
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	<a href="https://github.com/Gustavo-Marinho0">
+		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="Gustavo" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+	<a href="https://github.com/Gustavo-Marinho0">
+		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="Gustavo" />
 	</a>
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/Gustavo-Marinho0">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;Freelancer;Computer+Science+Student;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
