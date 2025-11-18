@@ -4,14 +4,6 @@ Hi, I'm Gustavo!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<p align="center">
-	<a href="https://github.com/Gustavo-Marinho0">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="Gustavo" />
-	</a>
-	<a href="https://github.com/Gustavo-Marinho0">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="Gustavo" />
-	</a>
-</p>
 <br/>
 <p align="center">
 	<a href="https://github.com/Gustavo-Marinho0">
@@ -23,8 +15,7 @@ Hi, I'm Gustavo!
 
 <pre>
 💻 I am a Front-End Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocc
-🔭 Working on React with Typescript
+🔭 Working with React and Typescript
 🌟 Main language: JavaScript
 🚩 Interested in Full Stack Development
 </pre>
@@ -43,13 +34,13 @@ Hi, I'm Gustavo!
 
 <p>
     <a href="https://github.com/Gustavo-Marinho0"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/Gustavo-Marinho0"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%230095ff.svg?logo=typescript&logoColor=white"></a>
 
 
 ### 💻 Software and Tools
 
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 </br>
@@ -83,7 +74,7 @@ Hi, I'm Gustavo!
 
 <p align="center">
 	<a href="https://github.com/Gustavo-Marinho0">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="Gustavo">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Marinho0&langs_count=8&layout=compact" alt="Gustavo">
 	</a>
 	<br/>
 <br/>
